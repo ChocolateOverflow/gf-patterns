@@ -1,0 +1,5 @@
+{
+  "engine": "rg",
+  "flags": "-io",
+  "pattern": "https?://[^\"'> ]+"
+}

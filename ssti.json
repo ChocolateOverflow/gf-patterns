@@ -1,0 +1,14 @@
+{
+  "engine": "rg",
+  "flags": "-s",
+  "patterns": [
+    "\\btemplate=",
+    "\\bpreview=",
+    "\\bid=",
+    "\\bview=",
+    "\\bactivity=",
+    "\\bname=",
+    "\\bcontent=",
+    "\\bredirect="
+  ]
+}

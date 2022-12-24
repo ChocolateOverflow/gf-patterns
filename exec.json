@@ -1,0 +1,14 @@
+{
+  "engine": "rg",
+  "flags": "-s",
+  "patterns": [
+    "eval",
+    "run",
+    "exec",
+    "process",
+    "system",
+    "popen",
+    "spawn",
+    "dup2"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "engine": "rg",
+  "flags": "-s",
+  "patterns": [
+    "\\bid=",
+    "\\buser=",
+    "\\baccount=",
+    "\\bnumber=",
+    "\\border=",
+    "\\bno=",
+    "\\bdoc=",
+    "\\bkey=",
+    "\\bemail=",
+    "\\bgroup=",
+    "\\bprofile=",
+    "\\bedit=",
+    "\\breport="
+  ]
+}

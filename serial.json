@@ -1,0 +1,11 @@
+{
+  "engine": "rg",
+  "flags": "-i",
+  "patterns": [
+    "pickle",
+		"yaml",
+		"serialize",
+		"marshal",
+		"objectinput"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "engine": "rg",
+  "flags": "-s",
+  "pattern": "\u003cinput[^\u003e]+type=[\"']?file[\"']?"
+}
